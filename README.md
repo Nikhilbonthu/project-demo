@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git repo
 <br>
-Author-Bonthu Nikhil
+Author-Bonthu Nikhil(nani)
